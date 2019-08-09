@@ -14,13 +14,13 @@ The following data from BBB is required to configure this ILIAS Plugin:
 On your ILIAS Server:
 
 - copy the content of this folder into `<ILIAS_directory>/Customizing/global/plugins/Services/Repository/RepositoryObject/BigBlueButton`
-- Log in to ILIAS as `root` and go to the administration page
-- Select `Modules, Services and Plugins` in the menu on the right
+- log in to ILIAS as `root` and go to the administration page
+- select `Modules, Services and Plugins` in the menu on the right
 - Hits the `Services` tab and ILIAS will show a service list
 - Look for the `Repository` and hit the `Show Details` link that is located next to the title
 - look for the BigBlueButton plugin on the table and hit the `update` link
 - when ILIAS has updated the plugin, hit the `activate` link that will appear instead of the `update` link
-- Now hit the `configure` link and enter your 
+- now hit the `configure` link and enter your 
     - public/private URL
     - public/private port 
     - BBB security salt
