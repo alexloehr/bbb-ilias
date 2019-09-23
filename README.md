@@ -1,3 +1,5 @@
+# DEPRECATED moved to https://github.com/Minervis-GmbH/BigBlueButton-Ilias-Plugin
+
 Forked from https://sourceforge.net/projects/bigbluebuttonil/
 
 # About
